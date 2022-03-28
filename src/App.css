@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "Gilroy";
+  src: url(./fonts/Gilroy-Regular.woff);
+}
+
+@font-face {
+  font-family: "Gilroy-Bold";
+  src: url(./fonts/Gilroy-Bold.woff);
+}

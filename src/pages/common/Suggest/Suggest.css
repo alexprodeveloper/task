@@ -1,0 +1,20 @@
+.suggest {
+    box-sizing: border-box;
+    position: absolute;
+    z-index: 2;
+    width: 600px;
+}
+
+.option {
+    background: #FFFFFF;
+    font-family: 'Gilroy', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.option:hover {
+    background: #ededed;
+}
